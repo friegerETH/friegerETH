@@ -12,7 +12,7 @@ Doctoral researcher (PhD cand.) · Institute for Biomechanics · ETH Zurich
 
 ## About
 
-I am a mechanical engineer and researcher working on the biomechanics of the spine, through musculoskeletal and finite element modeling. I am particularly interested in modeling spinal alignment, intervertebral disc degeneration and adult spinal deformities. As part of my PhD project I am also contributing to the [METASTRA](https://cordis.europa.eu/project/id/101080135) project, an EU Horizon Europe project on fracture risk stratification for patients with vertebral metastases.
+I am a mechanical engineer and researcher working on the biomechanics of the spine, through musculoskeletal and finite element modeling. I am particularly interested in modeling spinal alignment, intervertebral disc biomechanics, disc degeneration and adult spinal deformities. As part of my PhD project I am also contributing to the [METASTRA](https://cordis.europa.eu/project/id/101080135) consortium, an EU Horizon Europe project on fracture risk stratification for patients with vertebral metastases.
 
 ---
 
